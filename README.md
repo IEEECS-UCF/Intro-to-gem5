@@ -4,7 +4,7 @@ This repository contains the slides used for the Intro to gem5 workshop conducte
 
 ### Workshop Overview
 
-The session was led by Derrick.
+The session was led by Dr. Derrick Greenspan.
 
 gem5 is an open-source simulator that lets your laptop model a CPU before the silicon exists. The workshop covered why architecture simulation matters, how to get around gem5, and how to write a basic config script to run and measure a simulated system.
 
